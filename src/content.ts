@@ -9,9 +9,9 @@ type Site = {
 };
 
 export const site: Site = {
-  name: "Your name",
-  event: "Launch night",
-  date: "Thursday 22 October",
+  name: "Kasper",
+  event: "gitslop",
+  date: "Wednesday 07 October",
   year: 2026,
   ticketPrice: 120,
 };
